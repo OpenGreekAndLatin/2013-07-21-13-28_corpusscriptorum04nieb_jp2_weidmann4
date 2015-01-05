@@ -1,0 +1,43 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta value="abbyy" name="ocr-id"></meta>
+    <meta value="lines text" name="ocr-recognized"></meta>
+    <link href="http://heml.mta.ca/Rigaudon/hocr.css" type="text/css" rel="stylesheet"></link>
+    <meta content="application/xhtml+xml; charset=UTF-8" http-equiv="content-type"></meta>
+    <title>ocr</title>
+  </head>
+  <body>
+    <div id="i0008.png" class="ocr_page">
+      
+      
+      <span title="bbox 1278 1178 1486 1294" class="ocr_line">
+        <span title="bbox 1278 1178 1486 1294" class="ocr_word" id="w_0">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Df</ins>
+            <del title="nlp 0.90">Df</del>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 1290 1318 1542 1422" class="ocr_line">
+        <span title="bbox 1290 1318 1542 1422" class="ocr_word" id="w_1">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">503</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 1294 1592 1524 1664" class="ocr_line" id="w_3">
+        <span title="bbox 1294 1602 1388 1660" class="ocr_word" id="w_2">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">v.</ins>
+            <del title="nlp 0.90">v.</del>
+          </span>
+        </span>
+        <span id="w_3" class="ocr_word" title="bbox 1440 1592 1524 1664"><span class="alternatives"><ins title="nlp 0.93" class="alt">U-</ins></span></span>
+      </span>
+      
+      
+    </div>
+  </body>
+</html>

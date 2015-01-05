@@ -1,0 +1,1217 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta value="abbyy" name="ocr-id"></meta>
+    <meta value="lines text" name="ocr-recognized"></meta>
+    <link href="http://heml.mta.ca/Rigaudon/hocr.css" type="text/css" rel="stylesheet"></link>
+    <meta content="application/xhtml+xml; charset=UTF-8" http-equiv="content-type"></meta>
+    <title>ocr</title>
+  </head>
+  <body>
+    <div id="i0290.png" class="ocr_page">
+      
+      
+      <span title="bbox 376 173 1648 243" class="ocr_line">
+        <span title="bbox 376 187 499 243" class="ocr_word" id="w_0">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">274</ins>
+          </span>
+        </span>
+        <span title="bbox 953 173 1648 227" class="ocr_word" id="w_1">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">CHRONICON</ins>
+            <del title="nlp 0.90">CHRONICON</del>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 308 314 1524 386" class="ocr_line">
+        <span title="bbox 308 329 343 368" class="ocr_word" id="w_2">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">C</ins>
+            <del title="nlp 0.90">C</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="t&amp;'," title="bbox 1046 314 1137 385" class="ocr_word" id="w_3">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἴθι,</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="x," title="bbox 1181 341 1241 384" class="ocr_word" id="w_4">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">κ,</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="xa" title="bbox 1289 340 1354 372" class="ocr_word" id="w_5">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κα</ins>
+          </span>
+        </span>
+        <span title="bbox 1371 360 1385 384" class="ocr_word" id="w_6">
+          <span class="alternatives">
+            <ins title="nlp 0.95" class="alt">,</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="xfi'" title="bbox 1429 319 1507 386" class="ocr_word" id="w_7">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">κβι.</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 1034 430 1544 501" class="ocr_line">
+        <span xml:lang="grc" data-lat-original="£J" title="bbox 1034 435 1091 498" class="ocr_word" id="w_8">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">ζζ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="'OXvfintdg." title="bbox 1150 430 1544 501" class="ocr_word" id="w_9">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Ὀλυμπιάς.</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 1247 552 1335 607" class="ocr_line">
+        <span title="bbox 1247 552 1335 607" class="ocr_word" id="w_10">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">xy.</ins>
+            <del title="nlp 0.90">xy.</del>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 497 631 2213 704" class="ocr_line">
+        <span xml:lang="grc" data-lat-original="cEXXavixog" title="bbox 497 631 782 693" class="ocr_word" id="w_11">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Ἑλλάνικος</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="tOTOQioyQuqjog" title="bbox 834 651 1229 703" class="ocr_word" id="w_12">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">ἱστoριογράφος</ins>
+            <del title="nlp 0.90">ἱστοριογράφοις</del>
+            <del title="nlp 0.89">ἱστοριογράφους</del>
+            <del title="nlp 0.88">ἱστοριογράφου</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="xat" title="bbox 1284 653 1367 685" class="ocr_word" id="w_13">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="/JtjfioxQtTog" title="bbox 1412 634 1741 704" class="ocr_word" id="w_14">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Δημόκριτος</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="qjiXoaoopog" title="bbox 1803 638 2087 704" class="ocr_word" id="w_15">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">φιλόσοφος</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="xul" title="bbox 2131 634 2213 685" class="ocr_word" id="w_16">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 367 716 2253 791" class="ocr_line">
+        <span xml:lang="grc" data-lat-original="cHQuxXenog" title="bbox 367 716 694 787" class="ocr_word" id="w_17">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Ἡράκλειτος</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="o" title="bbox 721 740 745 770" class="ocr_word" id="w_18">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὁ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="oxoTeivbg" title="bbox 771 716 1024 778" class="ocr_word" id="w_19">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">σκοτεινὸς</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="xal" title="bbox 1049 719 1131 769" class="ocr_word" id="w_20">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span title="bbox 1158 717 1499 788" class="ocr_word" id="w_21">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">’Ava’t-ayoQug</ins>
+            <del title="nlp 0.90">’Ava’t-ayoQug</del>
+          </span>
+        </span>
+        <span title="bbox 1515 719 1727 789" class="ocr_word" id="w_22">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">(pvoixbg</ins>
+            <del title="nlp 0.90">(pvoixbg</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="(filoooyog" title="bbox 1752 725 2035 791" class="ocr_word" id="w_23">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">φιλόσοφος</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="eyvw-5" title="bbox 2061 725 2253 787" class="ocr_word" id="w_24">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">ἐγνω- ᾶ</ins>
+            <del title="nlp 0.90">ἐγνωκὸς</del>
+            <del title="nlp 0.89">ἐγνωκός</del>
+            <del title="nlp 0.88">ἐγνωκὼς</del>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 376 805 586 873" class="ocr_line">
+        <span title="bbox 376 805 586 873" class="ocr_word" id="w_25">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Qttovro.</ins>
+            <del title="nlp 0.90">Qttovro.</del>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 1113 904 1473 966" class="ocr_line">
+        <span xml:lang="grc" data-lat-original="xd" title="bbox 1113 904 1170 953" class="ocr_word" id="w_26">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">κδ</ins>
+          </span>
+        </span>
+        <span title="bbox 1191 943 1206 966" class="ocr_word" id="w_27">
+          <span class="alternatives">
+            <ins title="nlp 0.95" class="alt">,</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="xe" title="bbox 1255 924 1306 955" class="ocr_word" id="w_28">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κε,</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="xg" title="bbox 1385 923 1446 964" class="ocr_word" id="w_29">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κέ.</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 1042 1014 1541 1085" class="ocr_line">
+        <span title="bbox 1042 1021 1119 1085" class="ocr_word" id="w_30">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">%rj’</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="*0" title="bbox 1161 1015 1219 1068" class="ocr_word" id="w_31">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Ὀλυμπιάς.</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 1027 1118 1556 1186" class="ocr_line">
+        <span xml:lang="grc" data-lat-original="xX,'," title="bbox 1027 1118 1126 1181" class="ocr_word" id="w_32">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">κζ,κη,κθ,λ.</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 1039 1227 2280 1298" class="ocr_line">
+        <span title="bbox 1039 1234 1127 1294" class="ocr_word" id="w_33">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">’’</ins>
+            <del title="nlp 0.90">’δ’</del>
+            <del title="nlp 0.89">’μ’</del>
+            <del title="nlp 0.88">’π’</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="'OXvfinidg." title="bbox 1163 1227 1543 1298" class="ocr_word" id="w_34">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Ὀλυμπιάς.</ins>
+          </span>
+        </span>
+        <span title="bbox 2233 1234 2280 1276" class="ocr_word" id="w_35">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">10</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 1010 1331 1576 1401" class="ocr_line">
+        <span title="bbox 1010 1336 1109 1396" class="ocr_word" id="w_36">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Xa’,</ins>
+            <del title="nlp 0.90">Xa’,</del>
+          </span>
+        </span>
+        <span title="bbox 1169 1337 1270 1397" class="ocr_word" id="w_37">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">W,</ins>
+            <del title="nlp 0.90">W,</del>
+          </span>
+        </span>
+        <span title="bbox 1328 1336 1421 1401" class="ocr_word" id="w_38">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">ly’,</ins>
+            <del title="nlp 0.90">ly’,</del>
+          </span>
+        </span>
+        <span title="bbox 1481 1331 1576 1385" class="ocr_word" id="w_39">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">W.</ins>
+            <del title="nlp 0.90">W.</del>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 304 1439 1532 1511" class="ocr_line">
+        <span title="bbox 304 1457 341 1500" class="ocr_word" id="w_40">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">D</ins>
+            <del title="nlp 0.90">D</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="o'" title="bbox 1055 1450 1098 1496" class="ocr_word" id="w_41">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὁ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="*OXv" title="bbox 1148 1443 1294 1498" class="ocr_word" id="w_42">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Ὀλυμπιάς.</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 1174 1526 1411 1609" class="ocr_line">
+        <span title="bbox 1174 1541 1261 1609" class="ocr_word" id="w_43">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">U,</ins>
+            <del title="nlp 0.90">U,</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="i/." title="bbox 1320 1526 1411 1606" class="ocr_word" id="w_44">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">λέ.</ins>
+            <del title="nlp 0.90">λέγε.</del>
+            <del title="nlp 0.89">λέγη.</del>
+            <del title="nlp 0.88">λέγω.</del>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 200 1643 2216 1712" class="ocr_line">
+        <span title="bbox 200 1659 237 1699" class="ocr_word" id="w_45">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">V</ins>
+            <del title="nlp 0.90">V</del>
+          </span>
+        </span>
+        <span title="bbox 265 1661 346 1704" class="ocr_word" id="w_46">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">118</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="Jeov" title="bbox 506 1647 640 1695" class="ocr_word" id="w_47">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Λέον</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="Iv" title="bbox 664 1643 717 1694" class="ocr_word" id="w_48">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="avvTOfiw" title="bbox 741 1663 979 1709" class="ocr_word" id="w_49">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">συντόμῳ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="fivtjfiovevoat" title="bbox 1000 1663 1352 1711" class="ocr_word" id="w_50">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μνημονεῦσαι</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="xal" title="bbox 1392 1644 1475 1694" class="ocr_word" id="w_51">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="twv" title="bbox 1501 1662 1603 1695" class="ocr_word" id="w_52">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τῶν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="nooqjfjTwv" title="bbox 1638 1663 1918 1712" class="ocr_word" id="w_53">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">προφητῶν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="xal" title="bbox 1949 1647 2030 1696" class="ocr_word" id="w_54">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="bet^ut" title="bbox 2060 1646 2216 1705" class="ocr_word" id="w_55">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">δείξαι</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 374 1732 2287 1798" class="ocr_line">
+        <span xml:lang="grc" data-lat-original="xut" title="bbox 374 1750 454 1779" class="ocr_word" id="w_56">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="avTovg" title="bbox 489 1749 677 1789" class="ocr_word" id="w_57">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">αἰτοὺς</ins>
+            <del title="nlp 0.90">αἰτοῖς</del>
+            <del title="nlp 0.89">αἰτοῦν</del>
+            <del title="nlp 0.88">αἰτοίης</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="neQt" title="bbox 701 1749 814 1797" class="ocr_word" id="w_58">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">περὶ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="tov" title="bbox 864 1748 955 1780" class="ocr_word" id="w_59">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τοῦ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="xuto," title="bbox 994 1749 1126 1780" class="ocr_word" id="w_60">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κατὰ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="Xqiotov" title="bbox 1148 1732 1381 1798" class="ocr_word" id="w_61">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Χριστὸν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="fivoT7]Qtov" title="bbox 1408 1748 1696 1797" class="ocr_word" id="w_62">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μυστηρίου</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="nQoeiQrjxoTag" title="bbox 1733 1749 2098 1798" class="ocr_word" id="w_63">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">προειρηκότας</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="xul" title="bbox 2136 1732 2216 1782" class="ocr_word" id="w_64">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">καὶ</ins>
+          </span>
+        </span>
+        <span title="bbox 2238 1747 2287 1790" class="ocr_word" id="w_65">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">15</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 377 1810 2217 1883" class="ocr_line">
+        <span xml:lang="grc" data-lat-original="oti" title="bbox 377 1835 453 1865" class="ocr_word" id="w_66">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὅτι</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="ndvTeg" title="bbox 496 1810 680 1875" class="ocr_word" id="w_67">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πάντες</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="dnb" title="bbox 722 1812 821 1866" class="ocr_word" id="w_68">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀπὸ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="tov" title="bbox 854 1834 945 1865" class="ocr_word" id="w_69">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τοῦ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="nQWTonkuOTOV" title="bbox 984 1821 1395 1883" class="ocr_word" id="w_70">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πρωτοπλάστου</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="lAduft" title="bbox 1439 1813 1605 1880" class="ocr_word" id="w_71">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">Ἀδὰμ</ins>
+            <del title="nlp 0.90">Ἀδάμα</del>
+            <del title="nlp 0.89">κὰμ</del>
+            <del title="nlp 0.88">Ἀδῶν</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="fte/Qtg" title="bbox 1648 1835 1822 1883" class="ocr_word" id="w_72">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μέχρις</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="'Iwdvvov" title="bbox 1853 1812 2091 1868" class="ocr_word" id="w_73">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">Ἰωάννου</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="tov" title="bbox 2127 1837 2217 1868" class="ocr_word" id="w_74">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τοῦ</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 373 1898 1828 1970" class="ocr_line">
+        <span xml:lang="grc" data-lat-original="fiamioTov" title="bbox 373 1905 660 1965" class="ocr_word" id="w_75">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">βαπτιστοῦ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="elg" title="bbox 689 1901 757 1960" class="ocr_word" id="w_76">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">εἰς</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="tt)v" title="bbox 784 1898 874 1966" class="ocr_word" id="w_77">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τὴν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="fiekXovouv" title="bbox 896 1904 1188 1965" class="ocr_word" id="w_78">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">μέλλουσαν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="xaTuoTaotv" title="bbox 1209 1919 1523 1953" class="ocr_word" id="w_79">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">κατάστασιν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="d(poQwotv." title="bbox 1548 1898 1828 1970" class="ocr_word" id="w_80">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀφορῶσιν.</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 187 2024 1621 2091" class="ocr_line">
+        <span title="bbox 187 2024 340 2071" class="ocr_word" id="w_81">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">R344</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="Elg" title="bbox 970 2026 1101 2091" class="ocr_word" id="w_82">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">Ει’ςτὸν</ins>
+            <del title="nlp 0.90">πιστὸν</del>
+            <del title="nlp 0.89">διττὸν</del>
+            <del title="nlp 0.88">ποστὸν</del>
+          </span>
+        </span>
+        <span title="bbox 1349 2025 1621 2085" class="ocr_word" id="w_83">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">HXtav.</ins>
+            <del title="nlp 0.90">HXtav.</del>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 507 2139 2216 2213" class="ocr_line">
+        <span xml:lang="grc" data-lat-original="OvTog" title="bbox 507 2142 673 2202" class="ocr_word" id="w_84">
+          <span class="alternatives">
+            <ins title="nlp 0.98" class="alt">Οὗτός</ins>
+            <del title="nlp 0.90">οὕτος</del>
+            <del title="nlp 0.89">οὗτος</del>
+            <del title="nlp 0.88">οὗτός</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="eoTtv" title="bbox 700 2159 833 2191" class="ocr_word" id="w_85">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἐστιν</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="'Hkiug" title="bbox 854 2139 1035 2203" class="ocr_word" id="w_86">
+          <span class="alternatives">
+            <ins title="nlp 0.98" class="alt">Ἡλίας</ins>
+            <del title="nlp 0.90">Ἠλίας</del>
+            <del title="nlp 0.89">ἡλίας</del>
+            <del title="nlp 0.88">ἡλιάς</del>
+            <del title="nlp 0.87">ἡλιὰς</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="b" title="bbox 1063 2139 1088 2194" class="ocr_word" id="w_87">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ὁ</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="nQWTog" title="bbox 1105 2163 1309 2213" class="ocr_word" id="w_88">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">πρῶτος</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="uv&amp;Qwnwv" title="bbox 1326 2147 1618 2209" class="ocr_word" id="w_89">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀνθρώπων</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="ToTg" title="bbox 1636 2150 1742 2203" class="ocr_word" id="w_90">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">τοῖς</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="uvfrQwnotg" title="bbox 1767 2147 2066 2210" class="ocr_word" id="w_91">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">ἀνθρώποις</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="vno-" title="bbox 2089 2164 2216 2194" class="ocr_word" id="w_92">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">ὑπο-</ins>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 491 2275 1752 2336" class="ocr_line">
+        <span title="bbox 491 2280 532 2323" class="ocr_word" id="w_93">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">3.</ins>
+            <del title="nlp 0.90">ὑποθῇ.</del>
+            <del title="nlp 0.89">ὑποθῶ.</del>
+            <del title="nlp 0.88">ὑποχῇ.</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="xy" title="bbox 561 2294 615 2333" class="ocr_word" id="w_94">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">κγ</ins>
+          </span>
+        </span>
+        <span title="bbox 652 2281 750 2321" class="ocr_word" id="w_95">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">ante</ins>
+            <del title="nlp 0.90">ante</del>
+          </span>
+        </span>
+        <span title="bbox 783 2292 821 2320" class="ocr_word" id="w_96">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">v.</ins>
+            <del title="nlp 0.90">v.</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="7." title="bbox 854 2281 894 2324" class="ocr_word" id="w_97">
+          <span class="alternatives">
+            <ins title="nlp 0.95" class="alt">Ι</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="x$'" title="bbox 929 2276 998 2322" class="ocr_word" id="w_98">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">νδ</ins>
+          </span>
+        </span>
+        <span title="bbox 1031 2278 1151 2336" class="ocr_word" id="w_99">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">ponit</ins>
+            <del title="nlp 0.90">ponit</del>
+          </span>
+        </span>
+        <span title="bbox 1183 2279 1231 2321" class="ocr_word" id="w_100">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">P.</ins>
+            <del title="nlp 0.90">P.</del>
+          </span>
+        </span>
+        <span title="bbox 1351 2280 1394 2322" class="ocr_word" id="w_101">
+          <span class="alternatives">
+            <ins title="nlp 1.00" class="alt">4.</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="'EMavtxvs" title="bbox 1414 2275 1681 2329" class="ocr_word" id="w_102">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">‘πλανικὺς</ins>
+            <del title="nlp 0.90">βαλανικὸν</del>
+            <del title="nlp 0.89">βαλανικόν</del>
+            <del title="nlp 0.88">Πανικὰ</del>
+          </span>
+        </span>
+        <span title="bbox 1706 2280 1752 2320" class="ocr_word" id="w_103">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">V.</ins>
+            <del title="nlp 0.90">V.</del>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 1073 2407 1524 2436" class="ocr_line">
+        <span title="bbox 1073 2407 1163 2436" class="ocr_word" id="w_104">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">XIX.</ins>
+            <del title="nlp 0.90">XIX.</del>
+          </span>
+        </span>
+        <span title="bbox 1191 2407 1262 2435" class="ocr_word" id="w_105">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">XX.</ins>
+            <del title="nlp 0.90">XX.</del>
+          </span>
+        </span>
+        <span title="bbox 1297 2407 1385 2435" class="ocr_word" id="w_106">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">XXI.</ins>
+            <del title="nlp 0.90">XXI.</del>
+          </span>
+        </span>
+        <span title="bbox 1418 2407 1524 2436" class="ocr_word" id="w_107">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">XXII.</ins>
+            <del title="nlp 0.90">XXII.</del>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 1084 2466 1524 2521" class="ocr_line">
+        <span title="bbox 1084 2466 1264 2510" class="ocr_word" id="w_108">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">LXFll.</ins>
+            <del title="nlp 0.90">LXFll.</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="Olympias." title="bbox 1296 2466 1524 2521" class="ocr_word" id="w_109">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">οιν-Ρὠ8.</ins>
+            <del title="nlp 0.90">θοινάω.</del>
+            <del title="nlp 0.89">ποινῶ.</del>
+            <del title="nlp 0.88">ποινῶν.</del>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 494 2536 2219 2595" class="ocr_line">
+        <span title="bbox 494 2537 746 2581" class="ocr_word" id="w_110">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Hellanicus</ins>
+            <del title="nlp 0.90">Hellanicus</del>
+          </span>
+        </span>
+        <span title="bbox 778 2539 1010 2583" class="ocr_word" id="w_111">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">historicus</ins>
+            <del title="nlp 0.90">historicus</del>
+          </span>
+        </span>
+        <span title="bbox 1024 2570 1036 2593" class="ocr_word" id="w_112">
+          <span class="alternatives">
+            <ins title="nlp 0.95" class="alt">,</ins>
+          </span>
+        </span>
+        <span title="bbox 1082 2545 1126 2582" class="ocr_word" id="w_113">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">et</ins>
+            <del title="nlp 0.90">et</del>
+          </span>
+        </span>
+        <span title="bbox 1155 2537 1427 2581" class="ocr_word" id="w_114">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Democritus</ins>
+            <del title="nlp 0.90">Democritus</del>
+          </span>
+        </span>
+        <span title="bbox 1457 2536 1738 2595" class="ocr_word" id="w_115">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Philosophus</ins>
+            <del title="nlp 0.90">Philosophus</del>
+          </span>
+        </span>
+        <span title="bbox 1757 2570 1768 2589" class="ocr_word" id="w_116">
+          <span class="alternatives">
+            <ins title="nlp 0.95" class="alt">,</ins>
+          </span>
+        </span>
+        <span title="bbox 1813 2542 1942 2593" class="ocr_word" id="w_117">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">atque</ins>
+            <del title="nlp 0.90">atque</del>
+          </span>
+        </span>
+        <span title="bbox 1972 2537 2219 2582" class="ocr_word" id="w_118">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Heraclitus</ins>
+            <del title="nlp 0.90">Heraclitus</del>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 382 2595 2028 2654" class="ocr_line">
+        <span title="bbox 382 2595 688 2650" class="ocr_word" id="w_119">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">tenebricosus,</ins>
+            <del title="nlp 0.90">tenebricosus,</del>
+          </span>
+        </span>
+        <span title="bbox 723 2599 766 2639" class="ocr_word" id="w_120">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">et</ins>
+            <del title="nlp 0.90">et</del>
+          </span>
+        </span>
+        <span title="bbox 798 2597 1076 2654" class="ocr_word" id="w_121">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Anaxagoras</ins>
+            <del title="nlp 0.90">Anaxagoras</del>
+          </span>
+        </span>
+        <span title="bbox 1107 2596 1317 2652" class="ocr_word" id="w_122">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Physicus</ins>
+            <del title="nlp 0.90">Physicus</del>
+          </span>
+        </span>
+        <span title="bbox 1348 2595 1638 2652" class="ocr_word" id="w_123">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Philosophus</ins>
+            <del title="nlp 0.90">Philosophus</del>
+          </span>
+        </span>
+        <span title="bbox 1668 2595 2028 2651" class="ocr_word" id="w_124">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">agnoscebantur.</ins>
+            <del title="nlp 0.90">agnoscebantur.</del>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 1026 2666 1574 2698" class="ocr_line">
+        <span title="bbox 1026 2667 1150 2698" class="ocr_word" id="w_125">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">XXIII.</ins>
+            <del title="nlp 0.90">XXIII.</del>
+          </span>
+        </span>
+        <span title="bbox 1180 2666 1297 2697" class="ocr_word" id="w_126">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">XXIV.</ins>
+            <del title="nlp 0.90">XXIV.</del>
+          </span>
+        </span>
+        <span title="bbox 1328 2668 1428 2697" class="ocr_word" id="w_127">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">xxv.</ins>
+            <del title="nlp 0.90">xxv.</del>
+          </span>
+        </span>
+        <span title="bbox 1458 2667 1574 2696" class="ocr_word" id="w_128">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">XXVI.</ins>
+            <del title="nlp 0.90">XXVI.</del>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 1061 2726 1538 2781" class="ocr_line">
+        <span xml:lang="grc" data-lat-original="LXVIU." title="bbox 1061 2727 1269 2768" class="ocr_word" id="w_129">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">ΙΧFιΙι.</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="Olympias." title="bbox 1307 2726 1538 2781" class="ocr_word" id="w_130">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">ΟινmΡἰαs.</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 999 2811 1593 2842" class="ocr_line">
+        <span title="bbox 999 2812 1133 2842" class="ocr_word" id="w_131">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">XXVII.</ins>
+            <del title="nlp 0.90">XXVII.</del>
+          </span>
+        </span>
+        <span title="bbox 1162 2811 1318 2841" class="ocr_word" id="w_132">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">XXVIII.</ins>
+            <del title="nlp 0.90">XXVIII.</del>
+          </span>
+        </span>
+        <span title="bbox 1345 2811 1465 2840" class="ocr_word" id="w_133">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">XXIX.</ins>
+            <del title="nlp 0.90">XXIX.</del>
+          </span>
+        </span>
+        <span title="bbox 1496 2813 1593 2841" class="ocr_word" id="w_134">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">XXX.</ins>
+            <del title="nlp 0.90">XXX.</del>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 1087 2871 1512 2926" class="ocr_line">
+        <span xml:lang="grc" data-lat-original="LXIX." title="bbox 1087 2871 1246 2913" class="ocr_word" id="w_135">
+          <span class="alternatives">
+            <ins title="nlp 0.96" class="alt">ΙΧΙΧ.</ins>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="Olympias." title="bbox 1279 2871 1512 2926" class="ocr_word" id="w_136">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">ΟινmΡἰα2.</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 979 2955 1614 2988" class="ocr_line">
+        <span xml:lang="grc" data-lat-original="XXXI." title="bbox 979 2955 1095 2984" class="ocr_word" id="w_137">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">χκκ1</ins>
+            <del title="nlp 0.90">ἀκκὼ</del>
+            <del title="nlp 0.89">ἀκκώ</del>
+            <del title="nlp 0.88">ἀκκῶ</del>
+          </span>
+        </span>
+        <span title="bbox 1126 2956 1261 2988" class="ocr_word" id="w_138">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">XXXII.</ins>
+            <del title="nlp 0.90">XXXII.</del>
+          </span>
+        </span>
+        <span title="bbox 1289 2955 1439 2985" class="ocr_word" id="w_139">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">XXXIII.</ins>
+            <del title="nlp 0.90">XXXIII.</del>
+          </span>
+        </span>
+        <span title="bbox 1470 2956 1614 2985" class="ocr_word" id="w_140">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">XXXIV.</ins>
+            <del title="nlp 0.90">XXXIV.</del>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 1100 3030 1505 3086" class="ocr_line">
+        <span title="bbox 1100 3030 1236 3074" class="ocr_word" id="w_141">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">LXX.</ins>
+            <del title="nlp 0.90">LXX.</del>
+          </span>
+        </span>
+        <span xml:lang="grc" data-lat-original="Olympias." title="bbox 1273 3031 1505 3086" class="ocr_word" id="w_142">
+          <span class="alternatives">
+            <ins title="nlp 0.94" class="alt">οινmΡἰa2.</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 1150 3116 1456 3145" class="ocr_line">
+        <span title="bbox 1150 3116 1279 3145" class="ocr_word" id="w_143">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">xxxv.</ins>
+            <del title="nlp 0.90">xxxv.</del>
+          </span>
+        </span>
+        <span title="bbox 1307 3116 1456 3145" class="ocr_word" id="w_144">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">XXXVI.</ins>
+            <del title="nlp 0.90">XXXVI.</del>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 498 3157 2217 3219" class="ocr_line">
+        <span title="bbox 498 3162 622 3203" class="ocr_word" id="w_145">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Nunc</ins>
+            <del title="nlp 0.90">Nunc</del>
+          </span>
+        </span>
+        <span title="bbox 656 3175 780 3216" class="ocr_word" id="w_146">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">porro</ins>
+            <del title="nlp 0.90">porro</del>
+          </span>
+        </span>
+        <span title="bbox 813 3159 1071 3203" class="ocr_word" id="w_147">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">memorandi</ins>
+            <del title="nlp 0.90">memorandi</del>
+          </span>
+        </span>
+        <span title="bbox 1100 3165 1199 3202" class="ocr_word" id="w_148">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">sunt</ins>
+            <del title="nlp 0.90">sunt</del>
+          </span>
+        </span>
+        <span title="bbox 1229 3159 1492 3219" class="ocr_word" id="w_149">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Prophetae,</ins>
+            <del title="nlp 0.90">Prophetae,</del>
+          </span>
+        </span>
+        <span title="bbox 1526 3164 1653 3216" class="ocr_word" id="w_150">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">atque</ins>
+            <del title="nlp 0.90">atque</del>
+          </span>
+        </span>
+        <span title="bbox 1675 3157 2041 3201" class="ocr_word" id="w_151">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">demonstrandum</ins>
+            <del title="nlp 0.90">demonstrandum</del>
+          </span>
+        </span>
+        <span title="bbox 2073 3171 2217 3213" class="ocr_word" id="w_152">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">quem-</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 383 3216 2217 3276" class="ocr_line">
+        <span title="bbox 383 3219 604 3261" class="ocr_word" id="w_153">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">admodum</ins>
+            <del title="nlp 0.90">quemadmodum</del>
+          </span>
+        </span>
+        <span title="bbox 646 3218 729 3276" class="ocr_word" id="w_154">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">ipsi</ins>
+            <del title="nlp 0.90">ipsi</del>
+          </span>
+        </span>
+        <span title="bbox 771 3217 935 3262" class="ocr_word" id="w_155">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Christi</ins>
+            <del title="nlp 0.90">Christi</del>
+          </span>
+        </span>
+        <span title="bbox 977 3217 1226 3274" class="ocr_word" id="w_156">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">mysterium</ins>
+            <del title="nlp 0.90">mysterium</del>
+          </span>
+        </span>
+        <span title="bbox 1267 3217 1566 3275" class="ocr_word" id="w_157">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">praedixcrint</ins>
+            <del title="nlp 0.90">praedixcrint</del>
+          </span>
+        </span>
+        <span title="bbox 1579 3247 1589 3267" class="ocr_word" id="w_158">
+          <span class="alternatives">
+            <ins title="nlp 0.95" class="alt">,</ins>
+          </span>
+        </span>
+        <span title="bbox 1631 3221 1674 3258" class="ocr_word" id="w_159">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">et</ins>
+            <del title="nlp 0.90">et</del>
+          </span>
+        </span>
+        <span title="bbox 1714 3224 1760 3258" class="ocr_word" id="w_160">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">ut</ins>
+            <del title="nlp 0.90">ut</del>
+          </span>
+        </span>
+        <span title="bbox 1806 3230 1948 3257" class="ocr_word" id="w_161">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">omnes</ins>
+            <del title="nlp 0.90">omnes</del>
+          </span>
+        </span>
+        <span title="bbox 1988 3216 2041 3257" class="ocr_word" id="w_162">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">ab</ins>
+            <del title="nlp 0.90">ab</del>
+          </span>
+        </span>
+        <span title="bbox 2085 3216 2217 3256" class="ocr_word" id="w_163">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Adam</ins>
+            <del title="nlp 0.90">Adam</del>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 384 3274 2218 3334" class="ocr_line">
+        <span title="bbox 384 3276 517 3331" class="ocr_word" id="w_164">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">primo</ins>
+            <del title="nlp 0.90">primo</del>
+          </span>
+        </span>
+        <span title="bbox 550 3276 756 3319" class="ocr_word" id="w_165">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">hominum</ins>
+            <del title="nlp 0.90">hominum</del>
+          </span>
+        </span>
+        <span title="bbox 789 3290 925 3332" class="ocr_word" id="w_166">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">usque</ins>
+            <del title="nlp 0.90">usque</del>
+          </span>
+        </span>
+        <span title="bbox 963 3277 1015 3318" class="ocr_word" id="w_167">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">ad</ins>
+            <del title="nlp 0.90">ad</del>
+          </span>
+        </span>
+        <span title="bbox 1048 3275 1249 3319" class="ocr_word" id="w_168">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Joannem</ins>
+            <del title="nlp 0.90">Joannem</del>
+          </span>
+        </span>
+        <span title="bbox 1280 3276 1522 3334" class="ocr_word" id="w_169">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Baptistam</ins>
+            <del title="nlp 0.90">Baptistam</del>
+          </span>
+        </span>
+        <span title="bbox 1565 3274 1617 3317" class="ocr_word" id="w_170">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">ad</ins>
+            <del title="nlp 0.90">ad</del>
+          </span>
+        </span>
+        <span title="bbox 1663 3275 1848 3317" class="ocr_word" id="w_171">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">futurum</ins>
+            <del title="nlp 0.90">futurum</del>
+          </span>
+        </span>
+        <span title="bbox 1879 3278 2036 3316" class="ocr_word" id="w_172">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">statum</ins>
+            <del title="nlp 0.90">statum</del>
+          </span>
+        </span>
+        <span title="bbox 2068 3286 2218 3328" class="ocr_word" id="w_173">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">respe-</ins>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 381 3333 534 3376" class="ocr_line">
+        <span title="bbox 381 3333 534 3376" class="ocr_word" id="w_174">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">xerint.</ins>
+            <del title="nlp 0.90">respexerint.</del>
+          </span>
+        </span>
+      </span>
+      
+      
+      <span title="bbox 1140 3421 1453 3470" class="ocr_line">
+        <span title="bbox 1140 3421 1233 3469" class="ocr_word" id="w_175">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">De</ins>
+            <del title="nlp 0.90">De</del>
+          </span>
+        </span>
+        <span title="bbox 1280 3421 1453 3470" class="ocr_word" id="w_176">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Elia.</ins>
+            <del title="nlp 0.90">Elia.</del>
+          </span>
+        </span>
+      </span>
+      <span title="bbox 498 3502 2212 3561" class="ocr_line" id="w_188">
+        <span title="bbox 498 3502 580 3544" class="ocr_word" id="w_177">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Hic</ins>
+            <del title="nlp 0.90">Hic</del>
+          </span>
+        </span>
+        <span title="bbox 613 3515 678 3546" class="ocr_word" id="w_178">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">est</ins>
+            <del title="nlp 0.90">est</del>
+          </span>
+        </span>
+        <span title="bbox 708 3504 827 3547" class="ocr_word" id="w_179">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">Elias</ins>
+            <del title="nlp 0.90">Elias</del>
+          </span>
+        </span>
+        <span title="bbox 860 3505 933 3561" class="ocr_word" id="w_180">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">qui</ins>
+            <del title="nlp 0.90">qui</del>
+          </span>
+        </span>
+        <span title="bbox 967 3504 1121 3560" class="ocr_word" id="w_181">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">primus</ins>
+            <del title="nlp 0.90">primus</del>
+          </span>
+        </span>
+        <span title="bbox 1152 3518 1204 3548" class="ocr_word" id="w_182">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">ex</ins>
+            <del title="nlp 0.90">ex</del>
+          </span>
+        </span>
+        <span title="bbox 1235 3505 1470 3548" class="ocr_word" id="w_183">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">hominibus</ins>
+            <del title="nlp 0.90">hominibus</del>
+          </span>
+        </span>
+        <span title="bbox 1501 3506 1553 3548" class="ocr_word" id="w_184">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">iis</ins>
+            <del title="nlp 0.90">iis</del>
+          </span>
+        </span>
+        <span title="bbox 1588 3504 1774 3549" class="ocr_word" id="w_185">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">ostendit</ins>
+            <del title="nlp 0.90">ostendit</del>
+          </span>
+        </span>
+        <span title="bbox 1805 3503 1971 3547" class="ocr_word" id="w_186">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">unicam</ins>
+            <del title="nlp 0.90">unicam</del>
+          </span>
+        </span>
+        <span title="bbox 2003 3516 2096 3544" class="ocr_word" id="w_187">
+          <span class="alternatives">
+            <ins title="nlp 0.10" class="alt">esse</ins>
+            <del title="nlp 0.90">esse</del>
+          </span>
+        </span>
+        <span id="w_188" class="ocr_word" title="bbox 2126 3502 2212 3544"><span class="alternatives"><ins title="nlp 0.93" class="alt">An-</ins></span></span>
+      </span>
+      
+      
+    </div>
+  </body>
+</html>
